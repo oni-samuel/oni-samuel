@@ -55,7 +55,7 @@ Built an Artificial Neural Network (ANN) to predict diabetes from imbalanced hea
 - 🌐 [LinkedIn](https://www.linkedin.com/in/samuel-oni)  
 - 💻 [GitHub](https://github.com/oni-samuel)  
 - 📧 onis784@gmail.com
-- 🐦 Twitter 
+- 🐦 [Twitter](https://x.com/os_oluwapelumi)
 
 ---
 
